@@ -10,4 +10,4 @@ Inspects express app and documents routes in Readme.md
 
 `routeDocumenter(app);`
 
-- Check your README.md!
+- Check your README.md and remove the lines above
