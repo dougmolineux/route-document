@@ -1,4 +1,4 @@
-# route-documenter
+# route-document
 Inspects express app and documents routes in Readme.md
 
 # install
