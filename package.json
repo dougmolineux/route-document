@@ -1,0 +1,23 @@
+{
+  "name": "route-document",
+  "version": "1.0.0",
+  "description": "NPM module that inspects express app and documents routes in Readme.md",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougmolineux/route-documenter.git"
+  },
+  "keywords": [
+    "route",
+    "document",
+    "documenter",
+    "express",
+    "app"
+  ],
+  "author": "Doug Molineux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougmolineux/route-documenter/issues"
+  },
+  "homepage": "https://github.com/dougmolineux/route-documenter#readme"
+}
